@@ -1,2 +1,2 @@
 # curious
-complete personal info about someone
+complete personal info about a dev
